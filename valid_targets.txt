@@ -4,4 +4,7 @@
  * Commercial use requires license.
  * Contact: Fordamboy1@gmail.com
  */
-module.exports = {};
+./angular.webpack.js
+./valid_targets.txt
+./postcss.config.js
+./src/karma.conf.js
