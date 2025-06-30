@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Injectable } from '@angular/core';
 import { Flag } from '@keira-types/general';
 

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Component } from '@angular/core';
 import { AREA_ID } from '@keira-types/area.type';
 import { BsModalRef } from 'ngx-bootstrap/modal';

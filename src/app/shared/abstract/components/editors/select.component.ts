@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { TableRow } from '@keira-types/general';
 import { SelectService } from '../../service/select/select.service';
 import { MysqlQueryService } from '../../../services/mysql-query.service';

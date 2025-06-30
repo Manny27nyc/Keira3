@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { CommonModule } from '@angular/common';
 import { NgModule } from '@angular/core';
 import { LootEditorModule } from '@keira-shared/modules/loot-editor/loot-editor.module';

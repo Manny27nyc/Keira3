@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { ITEM_MOD } from '@keira-shared/constants/options/item-class';
 import { TableRow } from '@keira-shared/types/general';
 

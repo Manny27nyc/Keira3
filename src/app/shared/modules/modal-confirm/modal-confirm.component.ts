@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { BsModalRef } from 'ngx-bootstrap/modal';
 import { OnInit, Component } from '@angular/core';
 import { Subject } from 'rxjs';

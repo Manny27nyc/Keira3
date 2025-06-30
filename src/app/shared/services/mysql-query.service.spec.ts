@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { TestBed, waitForAsync } from '@angular/core/testing';
 import { SmartScripts } from '@keira-types/smart-scripts.type';
 import { of } from 'rxjs';

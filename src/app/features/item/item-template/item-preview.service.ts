@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Injectable } from '@angular/core';
 import { ITEM_FLAG } from '@keira-shared/constants/flags/item-flags';
 import { FACTION_RANK } from '@keira-shared/constants/options/faction-rank';

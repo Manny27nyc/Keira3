@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Component } from '@angular/core';
 import { LootTemplateIdComponent } from '@keira-abstract/components/editors/loot-template/loot-template-id.component';
 import { DisenchantLootTemplate } from '@keira-types/disenchant-loot-template.type';

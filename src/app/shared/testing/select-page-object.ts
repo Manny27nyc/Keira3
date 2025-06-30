@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { PageObject } from './page-object';
 
 export abstract class SelectPageObject<T> extends PageObject<T> {

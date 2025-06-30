@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Injectable } from '@angular/core';
 import { SqliteQueryService } from '@keira-shared/services/sqlite-query.service';
 import { Skill, SKILL_SEARCH_FIELDS, SKILL_TABLE } from '../../types/skill.type';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Component, Input } from '@angular/core';
 import { OPTION_IMG } from '@keira-constants/options/gossip-option-icon';
 import { GossipMenuOption } from '@keira-types/gossip-menu-option.type';

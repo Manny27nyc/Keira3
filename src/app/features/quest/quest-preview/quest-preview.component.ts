@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Component, OnInit } from '@angular/core';
 import { PreviewHelperService } from '@keira-shared/services/preview-helper.service';
 import { QuestPreviewService } from './quest-preview.service';

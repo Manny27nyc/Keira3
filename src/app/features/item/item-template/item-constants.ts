@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export const ITEM_CONSTANTS = {
   timeUnits: {
     sg: ['year', 'month', 'week', 'day', 'hour', 'minute', 'second', 'millisecond'],

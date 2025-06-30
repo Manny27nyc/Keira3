@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { TestBed, waitForAsync } from '@angular/core/testing';
 import { TooltipModule } from 'ngx-bootstrap/tooltip';
 import { TranslateTestingModule } from '@keira-shared/testing/translate-module';

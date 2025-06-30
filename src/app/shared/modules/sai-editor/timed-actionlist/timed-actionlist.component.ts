@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { ChangeDetectionStrategy, Component, Input, OnChanges } from '@angular/core';
 import { DTCFG } from '@keira-config/datatable.config';
 import { MysqlQueryService } from '@keira-shared/services/mysql-query.service';

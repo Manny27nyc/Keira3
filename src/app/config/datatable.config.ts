@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { ColumnMode, SelectionType } from '@swimlane/ngx-datatable';
 
 export const DTCFG = {

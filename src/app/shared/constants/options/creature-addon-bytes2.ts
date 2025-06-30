@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Option } from '../../types/general';
 
 // TODO: not all possible values are listed here

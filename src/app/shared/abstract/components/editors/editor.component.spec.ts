@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { EditorComponent } from './editor.component';
 import { MockEntity } from '@keira-testing/mock-services';
 import { EditorService } from '../../service/editors/editor.service';

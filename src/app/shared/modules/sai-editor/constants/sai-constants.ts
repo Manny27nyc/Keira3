@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export const UNIT_FLAGS = {
   NONE: 0x00000000,
   SERVER_CONTROLLED: 0x00000001,

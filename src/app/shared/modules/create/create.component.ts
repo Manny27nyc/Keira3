@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Component, Input, OnInit } from '@angular/core';
 import { QueryError } from 'mysql2';
 import { HandlerService } from '../../abstract/service/handlers/handler.service';

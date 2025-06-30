@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Injectable } from '@angular/core';
 import { SqliteQueryService } from '@keira-shared/services/sqlite-query.service';
 import { Area, AREA_SEARCH_FIELDS, AREA_TABLE } from '../../types/area.type';

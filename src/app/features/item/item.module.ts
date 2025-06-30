@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { NgModule } from '@angular/core';
 import { DisenchantLootTemplateModule } from './disenchant-loot-template/disenchant-loot-template.module';
 import { ItemEnchantmentTemplateModule } from './item-enchantment/item-enchantment-template.module';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Component, Input, OnChanges } from '@angular/core';
 import { DTCFG } from '@keira-config/datatable.config';
 import { ReferenceViewerService } from '@keira-shared/modules/loot-editor/reference-viewer.service';

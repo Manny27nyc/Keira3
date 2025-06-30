@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { NgModule } from '@angular/core';
 import { CreatureEquipTemplateModule } from './creature-equip-template/creature-equip-template.module';
 import { CreatureHandlerService } from './creature-handler.service';

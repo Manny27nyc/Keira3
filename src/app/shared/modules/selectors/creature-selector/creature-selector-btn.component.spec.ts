@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { ComponentFixture, TestBed, waitForAsync } from '@angular/core/testing';
 
 import { CreatureSelectorBtnComponent } from './creature-selector-btn.component';

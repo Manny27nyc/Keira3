@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
 

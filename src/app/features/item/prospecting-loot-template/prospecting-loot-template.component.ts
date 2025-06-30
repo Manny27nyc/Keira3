@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Component } from '@angular/core';
 import { LootTemplateComponent } from '@keira-abstract/components/editors/loot-template/loot-template.component';
 import { ProspectingLootTemplate } from '@keira-types/prospecting-loot-template.type';

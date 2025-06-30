@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { inject, TestBed } from '@angular/core/testing';
 import { LocalStorageService } from './local-storage.service';
 

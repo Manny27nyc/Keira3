@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Flag } from '../../types/general';
 import { INVENTORY_TYPE } from '@keira-constants/options/inventory-type';
 import { ITEM_SUBCLASS } from '@keira-constants/options/item-class';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Injectable } from '@angular/core';
 import { SingleRowEditorService } from '@keira-abstract/service/editors/single-row-editor.service';
 import { GO_DATA_FIELDS } from '@keira-constants/gameobject-types';

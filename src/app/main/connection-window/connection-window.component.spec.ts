@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { TestBed, waitForAsync } from '@angular/core/testing';
 import { TranslateTestingModule } from '@keira-shared/testing/translate-module';
 import { MockedMysqlService } from '@keira-testing/mocks';

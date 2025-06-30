@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { ComponentFixture } from '@angular/core/testing';
 
 export abstract class PageObject<ComponentType> {

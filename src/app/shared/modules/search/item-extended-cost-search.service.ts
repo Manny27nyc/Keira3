@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Injectable } from '@angular/core';
 import { SqliteQueryService } from '@keira-shared/services/sqlite-query.service';
 import { ItemExtendedCost, ITEM_EXTENDED_COST_SEARCH_FIELDS, ITEM_EXTENDED_COST_TABLE } from '../../types/item-extended-cost.type';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { fakeAsync, TestBed, tick, waitForAsync } from '@angular/core/testing';
 import { Connection, ConnectionOptions, QueryError } from 'mysql2';
 import { Subscriber } from 'rxjs';

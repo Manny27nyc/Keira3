@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Injectable } from '@angular/core';
 import { QueryService } from '@keira-shared/services/query.service';
 import { SmartScripts } from '@keira-types/smart-scripts.type';

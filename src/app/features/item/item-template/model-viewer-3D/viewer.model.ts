@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export const CONTENT_PATH = 'https://wow.zamimg.com/modelviewer/live/';
 
 export type Gender = 0 | 1;

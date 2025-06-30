@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Component, Input } from '@angular/core';
 import { MultiRowEditorService } from '@keira-abstract/service/editors/multi-row-editor.service';
 import { TableRow } from '@keira-types/general';

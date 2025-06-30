@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Component } from '@angular/core';
 import { MultiRowEditorComponent } from '@keira-shared/abstract/components/editors/multi-row-editor.component';
 import { CreatureTemplateSpell, CREATURE_TEMPLATE_SPELL_TABLE } from '@keira-types/creature-template-spell.type';

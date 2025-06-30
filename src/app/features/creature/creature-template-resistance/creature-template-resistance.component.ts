@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Component } from '@angular/core';
 import { CREATURE_TEMPLATE_RESISTANCE_SCHOOL } from '@keira-constants/options/creature-template-resistance-school';
 import { MultiRowEditorComponent } from '@keira-shared/abstract/components/editors/multi-row-editor.component';

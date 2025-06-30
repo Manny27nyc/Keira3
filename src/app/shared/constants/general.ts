@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export const WIKI_BASE_URL = 'http://www.azerothcore.org/wiki/';
 export const KEIRA3_REPO_URL = 'https://github.com/azerothcore/Keira3';
 export const AC_FORUM_URL = 'https://github.com/azerothcore/forum/issues';

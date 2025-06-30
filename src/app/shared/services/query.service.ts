@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { squelConfig } from '@keira-config/squel.config';
 import { QueryForm, TableRow } from '@keira-types/general';
 import { map, Observable } from 'rxjs';

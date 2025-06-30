@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Component } from '@angular/core';
 import { SingleRowEditorComponent } from '@keira-abstract/components/editors/single-row-editor.component';
 import { CREATURE_ADDON_BYTES_1 } from '@keira-constants/options/creature-addon-bytes1';

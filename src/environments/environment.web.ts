@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // The file contents for the current environment will overwrite these during build.
 // The build system defaults to the dev environment which uses `index.ts`, but if you do
 // `ng build --env=prod` then `index.prod.ts` will be used instead.

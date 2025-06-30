@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Flag } from '../../types/general';
 
 export const UNIT_FLAGS: Flag[] = [

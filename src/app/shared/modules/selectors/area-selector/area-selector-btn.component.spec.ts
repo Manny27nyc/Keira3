@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { ComponentFixture, TestBed, waitForAsync } from '@angular/core/testing';
 import { ModalModule } from 'ngx-bootstrap/modal';
 import { AreaSelectorBtnComponent } from './area-selector-btn.component';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export const QUEST_FLAG_DAILY = 0x01000;
 export const QUEST_FLAG_WEEKLY = 0x08000;
 export const QUEST_FLAG_SPECIAL_MONTHLY = 0x10;

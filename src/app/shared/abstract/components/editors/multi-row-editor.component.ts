@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { TableRow } from '@keira-types/general';
 import { HandlerService } from '../../service/handlers/handler.service';
 import { EditorComponent } from './editor.component';

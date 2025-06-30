@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { TestBed, waitForAsync } from '@angular/core/testing';
 import { SAI_ACTIONS } from '@keira-shared/modules/sai-editor/constants/sai-actions';
 import { SAI_EVENTS } from '@keira-shared/modules/sai-editor/constants/sai-event';

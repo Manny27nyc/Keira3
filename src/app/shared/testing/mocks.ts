@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { SqliteQueryService } from '@keira-shared/services/sqlite-query.service';
 import { SqliteService } from '@keira-shared/services/sqlite.service';
 import { ToastrService } from 'ngx-toastr';

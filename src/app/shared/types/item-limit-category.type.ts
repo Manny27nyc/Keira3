@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { TableRow } from './general';
 
 export const ITEM_LIMIT_CATEGORY_TABLE = 'item_limit_category'; // sqlite

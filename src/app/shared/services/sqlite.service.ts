@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Injectable, NgZone } from '@angular/core';
 import { ElectronService } from '@keira-shared/services/electron.service';
 import { TableRow } from '@keira-types/general';

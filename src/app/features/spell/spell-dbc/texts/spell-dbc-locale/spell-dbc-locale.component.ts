@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Component, Input } from '@angular/core';
 import { FormGroup } from '@angular/forms';
 import { ModelForm } from '@keira-shared/utils/helpers';

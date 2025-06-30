@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Injectable } from '@angular/core';
 import { MysqlQueryService } from '../../services/mysql-query.service';
 import { Conditions, CONDITIONS_SEARCH_FIELDS, CONDITIONS_TABLE } from '../../types/conditions.type';

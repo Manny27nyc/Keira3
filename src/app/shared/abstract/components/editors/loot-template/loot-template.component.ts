@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { LootTemplate } from '@keira-types/loot-template.type';
 import { MultiRowEditorComponent } from '../multi-row-editor.component';
 import { Component } from '@angular/core';

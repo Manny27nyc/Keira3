@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { FieldPacket as FieldInfo, QueryError } from 'mysql2';
 
 export type StringKeys<T> = Extract<keyof T, string>;

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Component } from '@angular/core';
 import { SelectComponent } from '@keira-abstract/components/editors/select.component';
 import { MysqlQueryService } from '@keira-shared/services/mysql-query.service';

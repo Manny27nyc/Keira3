@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { TableRow } from './general';
 
 export const GAMEOBJECT_QUESTITEM_TABLE = 'gameobject_questitem';

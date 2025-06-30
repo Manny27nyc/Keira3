@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { TestBed } from '@angular/core/testing';
 import { RACES_TEXT } from '@keira-shared/constants/preview';
 import { RACE } from 'app/features/item/item-template/item-preview';

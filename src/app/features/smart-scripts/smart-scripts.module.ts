@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { NgModule } from '@angular/core';
 import { SaiFullEditorModule } from './sai-full-editor/sai-full-editor.module';
 import { SaiSearchEntityModule } from './sai-search-entity/sai-search-entity.module';

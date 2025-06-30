@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { CONDITION_SOURCE_TYPES as ST, CONDITION_TYPES as CT } from '@keira-shared/types/conditions.type';
 
 export const SOURCE_GROUP_TOOLTIPS = [];

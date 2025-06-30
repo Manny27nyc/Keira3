@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Component, OnInit } from '@angular/core';
 import { MultiRowEditorComponent } from '../../abstract/components/editors/multi-row-editor.component';
 import { EVENT_PHASE_MASK } from '../../constants/flags/event-phase-mask';

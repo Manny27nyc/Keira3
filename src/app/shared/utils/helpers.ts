@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { FormControl, FormGroup } from '@angular/forms';
 import { Class } from '@keira-shared/types/general';
 

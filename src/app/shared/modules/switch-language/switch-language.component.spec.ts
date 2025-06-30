@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { NgModule } from '@angular/core';
 import { TestBed, waitForAsync } from '@angular/core/testing';
 import { ModalConfirmComponent } from '@keira-shared/modules/modal-confirm/modal-confirm.component';

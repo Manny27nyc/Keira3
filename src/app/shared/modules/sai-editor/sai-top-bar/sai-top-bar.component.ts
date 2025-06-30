@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Component, Input, OnInit } from '@angular/core';
 import { SAI_TYPES, SmartScripts } from '@keira-types/smart-scripts.type';
 import { MysqlQueryService } from '../../../services/mysql-query.service';

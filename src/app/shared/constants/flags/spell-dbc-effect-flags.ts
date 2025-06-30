@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Flag } from '@keira-types/general';
 
 export const SPELL_DBC_TARGETS: Flag[] = [

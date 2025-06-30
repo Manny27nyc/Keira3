@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { StringKeys, TableRow } from '@keira-types/general';
 import { MysqlQueryService } from '../../../services/mysql-query.service';
 import { HandlerService } from '../handlers/handler.service';

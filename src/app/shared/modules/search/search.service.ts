@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { QueryService } from '@keira-shared/services/query.service';
 import { FormControl, FormGroup } from '@angular/forms';
 import { QueryForm, StringKeys, TableRow } from '../../types/general';

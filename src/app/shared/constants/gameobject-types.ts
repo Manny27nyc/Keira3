@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { FieldDefinition } from '../types/general';
 
 export const GO_DATA_FIELDS: FieldDefinition[][] = [];

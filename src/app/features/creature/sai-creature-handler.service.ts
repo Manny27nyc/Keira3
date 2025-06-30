@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Injectable } from '@angular/core';
 import { Router } from '@angular/router';
 import { SaiHandlerService } from '@keira-shared/modules/sai-editor/sai-handler.service';

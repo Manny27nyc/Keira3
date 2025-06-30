@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { SearchService } from '../../../modules/search/search.service';
 import { ComplexKeyHandlerService } from '../../service/handlers/complex-key.handler.service';
 import { TableRow } from '@keira-types/general';

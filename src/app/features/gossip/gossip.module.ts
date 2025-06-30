@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { NgModule } from '@angular/core';
 import { GossipHandlerService } from './gossip-handler.service';
 import { GossipMenuOptionModule } from './gossip-menu-option/gossip-menu-option.module';

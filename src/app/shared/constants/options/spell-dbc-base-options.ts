@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Option } from '@keira-types/general';
 
 export const SPELL_DBC_CAST_TIME: Option[] = [

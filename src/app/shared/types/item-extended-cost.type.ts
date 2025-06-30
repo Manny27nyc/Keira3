@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { TableRow } from './general';
 
 export const ITEM_EXTENDED_COST_TABLE = 'item_extended_cost'; // sqlite

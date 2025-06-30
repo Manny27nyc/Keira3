@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { TableRow } from '@keira-types/general';
 
 export class Lock extends TableRow {

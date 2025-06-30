@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Injectable, NgZone } from '@angular/core';
 import * as mysql from 'mysql2';
 import { Connection, ConnectionOptions as ConnectionOptions, FieldPacket as FieldInfo, QueryError } from 'mysql2';

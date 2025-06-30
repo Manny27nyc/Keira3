@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { app, BrowserWindow, shell, Menu, MenuItem, nativeImage } from 'electron';
 import * as path from 'path';
 import * as url from 'url';

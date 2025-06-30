@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Injectable } from '@angular/core';
 import { SelectService } from '@keira-abstract/service/select/select.service';
 import { MysqlQueryService } from '@keira-shared/services/mysql-query.service';

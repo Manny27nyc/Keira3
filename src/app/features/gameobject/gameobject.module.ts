@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { NgModule } from '@angular/core';
 import { GameobjectHandlerService } from './gameobject-handler.service';
 import { GameobjectLootTemplateModule } from './gameobject-loot-template/gameobject-loot-template.module';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { TestBed } from '@angular/core/testing';
 import { instance } from 'ts-mockito';
 import { MysqlQueryService } from '../../services/mysql-query.service';

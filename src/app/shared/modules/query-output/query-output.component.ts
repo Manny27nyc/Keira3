@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Component, EventEmitter, Input, Output } from '@angular/core';
 import { ModalConfirmComponent } from '@keira-shared/modules/modal-confirm/modal-confirm.component';
 import { SubscriptionHandler } from '@keira-shared/utils/subscription-handler/subscription-handler';

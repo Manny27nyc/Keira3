@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { UiSwitchModuleConfig } from 'ngx-ui-switch/ui-switch/ui-switch.config';
 
 export const uiSwitchConfig: UiSwitchModuleConfig = {

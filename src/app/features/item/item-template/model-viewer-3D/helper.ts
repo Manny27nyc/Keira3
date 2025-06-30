@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { AppConfig } from '../../../../../environments/environment';
 import {
   CHARACTER_PART,

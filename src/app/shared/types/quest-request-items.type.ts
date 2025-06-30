@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { TableRow } from './general';
 
 export const QUEST_REQUEST_ITEMS_TABLE = 'quest_request_items';

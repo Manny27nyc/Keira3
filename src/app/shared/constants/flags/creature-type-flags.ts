@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Flag } from '../../types/general';
 
 export const CREATURE_TYPE_FLAGS: Flag[] = [

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Component } from '@angular/core';
 import { SelectComplexKeyComponent } from '@keira-abstract/components/editors/select-complex-key.component';
 import { SaiHandlerService } from '@keira-shared/modules/sai-editor/sai-handler.service';

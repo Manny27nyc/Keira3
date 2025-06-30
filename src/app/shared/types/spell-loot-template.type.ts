@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { LootTemplate } from './loot-template.type';
 
 export const SPELL_LOOT_TEMPLATE_TABLE = 'spell_loot_template';

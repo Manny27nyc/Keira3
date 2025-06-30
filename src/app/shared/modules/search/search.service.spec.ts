@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { TestBed } from '@angular/core/testing';
 import { of } from 'rxjs';
 import { instance } from 'ts-mockito';

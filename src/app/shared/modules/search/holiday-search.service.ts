@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Injectable } from '@angular/core';
 import { SqliteQueryService } from '@keira-shared/services/sqlite-query.service';
 import { Holiday, HOLIDAY_SEARCH_FIELDS, HOLIDAY_TABLE } from '../../types/holiday.type';

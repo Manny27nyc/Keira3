@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { ComponentFixture, TestBed, waitForAsync } from '@angular/core/testing';
 import { MysqlService } from '@keira-shared/services/mysql.service';
 import { TranslateTestingModule } from '@keira-shared/testing/translate-module';

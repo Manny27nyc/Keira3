@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Injectable } from '@angular/core';
 import { EditorService } from '@keira-shared/abstract/service/editors/editor.service';
 import { QUEST_FLAG_SHARABLE } from '@keira-shared/constants/flags/quest-flags';

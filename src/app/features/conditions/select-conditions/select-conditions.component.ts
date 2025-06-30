@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Component } from '@angular/core';
 import { SelectComplexKeyComponent } from '@keira-abstract/components/editors/select-complex-key.component';
 import { ConditionsSearchService } from '@keira-shared/modules/search/conditions-search.service';

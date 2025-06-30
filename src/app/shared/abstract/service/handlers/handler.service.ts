@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { CanActivate, Router } from '@angular/router';
 import { TableRow } from '@keira-types/general';
 import { SubscriptionHandler } from '../../../utils/subscription-handler/subscription-handler';

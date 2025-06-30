@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Injectable } from '@angular/core';
 import { NPC_TEXT_SEARCH_FIELDS, NPC_TEXT_TABLE } from '@keira-shared/types/npc-text.type';
 import { MysqlQueryService } from '../../services/mysql-query.service';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Injectable } from '@angular/core';
 import { MultiRowEditorService } from '@keira-abstract/service/editors/multi-row-editor.service';
 import { IconService } from '@keira-shared/modules/icon/icon.service';

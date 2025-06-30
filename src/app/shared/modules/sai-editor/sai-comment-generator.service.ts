@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Injectable } from '@angular/core';
 import { SAI_ACTION_COMMENTS, SAI_EVENT_COMMENTS } from '@keira-shared/modules/sai-editor/constants/sai-comments';
 import {

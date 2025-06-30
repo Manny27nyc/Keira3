@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Injectable } from '@angular/core';
 import { MultiRowExternalEditorService } from '@keira-abstract/service/editors/multi-row-external-editor.service';
 import { MysqlQueryService } from '@keira-shared/services/mysql-query.service';

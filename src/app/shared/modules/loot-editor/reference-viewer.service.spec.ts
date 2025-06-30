@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { TestBed } from '@angular/core/testing';
 import { LootEditorModule } from '@keira-shared/modules/loot-editor/loot-editor.module';
 import { MysqlQueryService } from '@keira-shared/services/mysql-query.service';

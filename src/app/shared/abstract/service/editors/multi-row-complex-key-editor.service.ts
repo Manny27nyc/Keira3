@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Class, TableRow } from '@keira-types/general';
 import { QueryError } from 'mysql2';
 import { ToastrService } from 'ngx-toastr';

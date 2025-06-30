@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Injectable } from '@angular/core';
 import { RACES_TEXT } from '@keira-shared/constants/preview';
 import { CLASSES, RACE } from 'app/features/item/item-template/item-preview';

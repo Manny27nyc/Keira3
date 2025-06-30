@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Injectable } from '@angular/core';
 import { SqliteQueryService } from '@keira-shared/services/sqlite-query.service';
 import { Map, MAP_SEARCH_FIELDS, MAP_TABLE } from '../../types/map.type';

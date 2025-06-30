@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { CREATURE_TYPE } from '@keira-constants/options/creature-type';
 import { Flag } from '../../types/general';
 

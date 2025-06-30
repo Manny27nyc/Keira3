@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { TableRow } from './general';
 
 export const ITEM_ENCHANTMENT_TEMPLATE_TABLE = 'item_enchantment_template';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Subscription } from 'rxjs';
 import { SubscriptionHandler } from './subscription-handler';
 

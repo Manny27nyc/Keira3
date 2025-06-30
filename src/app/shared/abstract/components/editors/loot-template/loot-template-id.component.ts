@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { OnInit, Component } from '@angular/core';
 import { QueryError } from 'mysql2';
 

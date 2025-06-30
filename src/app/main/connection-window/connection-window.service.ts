@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Injectable } from '@angular/core';
 import { LocalStorageService } from '@keira-shared/services/local-storage.service';
 import { ConnectionOptions as ConnectionOptions } from 'mysql2';

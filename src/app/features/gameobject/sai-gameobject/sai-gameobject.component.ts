@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Component } from '@angular/core';
 import { SaiEditorComponent } from '@keira-shared/modules/sai-editor/sai-editor.component';
 import { SaiGameobjectHandlerService } from '../sai-gameobject-handler.service';

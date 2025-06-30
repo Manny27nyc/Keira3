@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { TestBed } from '@angular/core/testing';
 import { LocalStorageService } from '@keira-shared/services/local-storage.service';
 import { Spied } from '@keira-testing/test-helpers';

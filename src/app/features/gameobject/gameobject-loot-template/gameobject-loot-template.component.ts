@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Component, OnInit } from '@angular/core';
 import { LootTemplateIdComponent } from '@keira-abstract/components/editors/loot-template/loot-template-id.component';
 import { GameobjectLootTemplate } from '@keira-types/gameobject-loot-template.type';

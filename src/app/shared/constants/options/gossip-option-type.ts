@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Option } from '../../types/general';
 
 export const OPTION_TYPE: Option[] = [

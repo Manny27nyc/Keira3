@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { HighlightOptions } from 'ngx-highlightjs';
 
 export const highlightOptions: HighlightOptions = {

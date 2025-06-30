@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { getEnumKeys } from '../utils/helpers';
 import { TableRow } from './general';
 

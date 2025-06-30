@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { HttpClient } from '@angular/common/http';
 import { Component, OnInit } from '@angular/core';
 import { KEIRA3_REPO_URL, LATEST_RELEASE_API_URL } from '@keira-constants/general';

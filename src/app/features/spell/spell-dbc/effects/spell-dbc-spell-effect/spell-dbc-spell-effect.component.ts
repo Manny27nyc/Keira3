@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Component, Input } from '@angular/core';
 import { FormGroup } from '@angular/forms';
 import { SPELL_DBC_CLASS_MASK_FLAGS } from '@keira-shared/constants/flags/spell-dbc-effect-flags';

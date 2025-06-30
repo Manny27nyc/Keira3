@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Conditions } from '../types/conditions.type';
 import { getNumberOrString, getPartial } from './helpers';
 

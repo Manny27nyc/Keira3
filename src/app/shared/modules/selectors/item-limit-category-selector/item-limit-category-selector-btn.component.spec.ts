@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { ComponentFixture, TestBed, waitForAsync } from '@angular/core/testing';
 
 import { ItemLimitCategorySelectorBtnComponent } from './item-limit-category-selector-btn.component';

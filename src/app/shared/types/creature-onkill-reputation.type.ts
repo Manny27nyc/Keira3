@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { TableRow } from './general';
 
 export const CREATURE_ONKLL_REPUTATION_TABLE = 'creature_onkill_reputation';

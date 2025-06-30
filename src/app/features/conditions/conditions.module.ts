@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { NgModule } from '@angular/core';
 import { ConditionsHandlerService } from './conditions-handler.service';
 import { ConditionsEditorModule } from './edit-conditions/conditions-editor.module';

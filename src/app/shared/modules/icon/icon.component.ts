@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { ChangeDetectionStrategy, ChangeDetectorRef, Component, Input } from '@angular/core';
 import { ICON_SKILLS } from '@keira-shared/constants/quest-preview';
 import { IconService } from '@keira-shared/modules/icon/icon.service';

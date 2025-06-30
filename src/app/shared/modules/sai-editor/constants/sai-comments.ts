@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { SAI_ACTIONS } from './sai-actions';
 import { SAI_EVENTS } from './sai-event';
 
